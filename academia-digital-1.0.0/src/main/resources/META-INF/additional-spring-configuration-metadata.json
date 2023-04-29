@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.show-sql'"
+  },
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.show-sql'"
+  },
+  {
+    "name": "spring.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spring.datasource.jpa",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.jpa'"
+  },
+  {
+    "name": "spring.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.show-sql'"
+  },
+  {
+    "name": "spring.hibernate.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.hibernate.ddl-auto'"
+  },
+  {
+    "name": "spirng",
+    "type": "java.lang.String",
+    "description": "A description for 'spirng'"
+  },
+  {
+    "name": "loggin.level.org.hibernate.type",
+    "type": "java.lang.String",
+    "description": "A description for 'loggin.level.org.hibernate.type'"
+  }
+]}
